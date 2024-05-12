@@ -69,7 +69,7 @@ function getMarkerColor(value)
   }
 
   // if all else fails (haha), return last color
-  //console.log(color);
+  console.log(color);
   return color;
 };
 
